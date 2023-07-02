@@ -42,7 +42,7 @@
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                                                              |
 | `fix`          | Corrige um bug ou problema no projeto.                                                                    |
 | `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                     |
-| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                              |
+| `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                             |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                              |
 | `test`         | Adiciona ou modifica testes no projeto.                                                                   |
 
